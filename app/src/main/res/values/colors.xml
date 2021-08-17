@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#404040</color>
+    <color name="colorAccent">#fcd052</color>
+
+    <color name="home_page_background_color">#404040</color>
+    <color name="popular_movie_background_color">#212121</color>
+
+    <color name="yellow_text_color">#fcd052</color>
+
+    <color name="yellow_fill_rating_color">#fcd052</color>
+    <color name="yellow_bg_rating_color">#3A370C</color>
+    <color name="green_fill_rating_color">#00FF00</color>
+    <color name="green_bg_rating_color">#204428</color>
+</resources>

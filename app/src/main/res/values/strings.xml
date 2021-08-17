@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS Android Assignment</string>
+
+    <!-- Movie Detail -->
+    <string name="movie_detail_movie_date_duration">%1$s - %2$s</string>
+    <string name="movie_detail_overview_label">Overview</string>
+
+    <string name="home_page_title">Moviebox</string>
+    <string name="now_playing_title">Playing now</string>
+    <string name="most_popular_title">Most popular</string>
+</resources>
