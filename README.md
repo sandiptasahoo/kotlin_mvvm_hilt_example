@@ -1,4 +1,4 @@
-### BACKBASE ANDROID ASSIGNMENT
+### My ANDROID ASSIGNMENT
 
 This Android Mobile App has been developed as part of an Assignment test
 
